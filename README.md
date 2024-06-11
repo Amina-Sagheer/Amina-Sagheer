@@ -7,11 +7,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Amina-Sagheer&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-<!--![](https://github-readme-stats.vercel.app/api?username=Amina-Sagheer&theme=dark&hide_border=false&include_all_commits=false&count_private=True)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Amina-Sagheer&theme=dark&hide_border=false)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Amina-Sagheer&theme=dark&hide_border=false&count_private=true)](https://git.io/streak-stats)-->
+<!--[](https://github-readme-stats.vercel.app/api?username=Amina-Sagheer&theme=dark&hide_border=false&include_all_commits=false&count_private=True)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Amina-Sagheer&theme=dark&hide_border=false)<br/>-->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Amina-Sagheer&theme=highcontrast)](https://git.io/streak-stats)
 
----
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
