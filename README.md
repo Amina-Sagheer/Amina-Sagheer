@@ -9,8 +9,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amina-Sagheer&show_icons=true&theme=highcontrast)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amina-Sagheer)](https://github.com/anuraghazra/github-readme-stats)-->
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Amina-Sagheer)](https://git.io/awesome-stats-card)
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Amina-Sagheer?cardType=level&theme=highcontrast&preferLogin=false)](https://git.io/awesome-stats-card)
 
 
 
