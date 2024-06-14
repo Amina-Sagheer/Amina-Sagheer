@@ -8,7 +8,8 @@
 <!--![](https://github-readme-stats.vercel.app/api?username=Amina-Sagheer&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amina-Sagheer&show_icons=true&theme=highcontrast)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amina-Sagheer)](https://github.com/anuraghazra/github-readme-stats)-->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amina-Sagheer&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Amina-Sagheer)](https://git.io/awesome-stats-card)
 
 
 
