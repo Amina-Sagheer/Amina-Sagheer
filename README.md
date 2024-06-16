@@ -11,6 +11,14 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Amina-Sagheer?cardType=level&theme=highcontrast&preferLogin=false)](https://git.io/awesome-stats-card)
 
+### GitHub Stats
+
+[![My GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Amina-Sagheer?cardType=level&theme=highcontrast&preferLogin=false)](https://git.io/awesome-stats-card)
+### GitHub Stats
+
+[![My GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Amina-Sagheer?cardType=level&theme=highcontrast&preferLogin=false)](https://git.io/awesome-stats-card)
+
+
 
 
 
