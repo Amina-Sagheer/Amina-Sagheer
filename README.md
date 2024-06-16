@@ -15,7 +15,9 @@
 
 
 <!--[](https://github-readme-stats.vercel.app/api?username=Amina-Sagheer&theme=dark&hide_border=false&include_all_commits=false&count_private=True)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Amina-Sagheer&theme=dark&hide_border=false)<br/>-->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Amina-Sagheer&theme=highcontrast)](https://git.io/streak-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Amina-Sagheer&theme=dark&hide_border=false)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Amina-Sagheer&theme=highcontrast)](https://git.io/streak-stats)-->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Amina-Sagheer&theme=highcontrast)](https://git.io/streak-stats)
+
 
 
