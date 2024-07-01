@@ -7,7 +7,6 @@
 # 📊 GitHub Stats:
 ![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Amina-Sagheer?cardType=level&theme=highcontrast&preferLogin=false)<!--(https://git.io/awesome-stats-card)-->
 
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Amina-Sagheer&theme=highcontrast)](https://git.io/streak-stats)
 
 
