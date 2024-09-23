@@ -42,6 +42,64 @@
 ![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Amina-Sagheer?cardType=level&theme=highcontrast&preferLogin=false)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Amina-Sagheer&theme=highcontrast)](https://git.io/streak-stats)
+# Amina Sagheer's Portfolio 🌟
+
+👋 Hi there! I'm Amina, a dedicated software engineering student and technology enthusiast.
+
+<p class="text-white/80 text-center">
+  My passion for coding and technology drives me to continuously explore new areas of development. From building responsive web applications to diving deeper into machine learning, I’m committed to expanding my skills and staying at the forefront of innovation. Beyond technical work, I’ve embraced leadership, entrepreneurship, and tech stewardship—learning to develop technologies that not only solve problems but also serve the greater good. I believe in pushing boundaries and working on projects that make a meaningful impact on both users and communities.
+</p>
+
+---
+
+## 🛠️ Technologies & Languages
+
+<!-- Animated Emoji Section -->
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+    <span>Python <span style="animation: bounce 1s infinite;">🐍</span></span>
+    <span>SQL <span style="animation: bounce 1s infinite;">📊</span></span>
+    <span>Java <span style="animation: bounce 1s infinite;">☕</span></span>
+    <span>C/C++ <span style="animation: bounce 1s infinite;">💻</span></span>
+    <span>HTML <span style="animation: bounce 1s infinite;">🌐</span></span>
+    <span>CSS <span style="animation: bounce 1s infinite;">🎨</span></span>
+    <span>JavaScript <span style="animation: bounce 1s infinite;">📜</span></span>
+    <span>Jinja <span style="animation: bounce 1s infinite;">🔧</span></span>
+    <span>Material UI <span style="animation: bounce 1s infinite;">📦</span></span>
+    <span>React <span style="animation: bounce 1s infinite;">⚛️</span></span>
+    <span>Flask <span style="animation: bounce 1s infinite;">🚀</span></span>
+    <span>Next.js <span style="animation: bounce 1s infinite;">📈</span></span>
+    <span>Firebase <span style="animation: bounce 1s infinite;">🔥</span></span>
+    <span>Jupyter Notebook <span style="animation: bounce 1s infinite;">📓</span></span>
+    <span>UML <span style="animation: bounce 1s infinite;">📐</span></span>
+    <span>Deployment <span style="animation: bounce 1s infinite;">🌍</span></span>
+    <span>Vercel <span style="animation: bounce 1s infinite;">⚡</span></span>
+    <span>Git <span style="animation: bounce 1s infinite;">🔄</span></span>
+    <span>VS Code <span style="animation: bounce 1s infinite;">🖥️</span></span>
+    <span>PyCharm <span style="animation: bounce 1s infinite;">🐱‍💻</span></span>
+    <span>IntelliJ <span style="animation: bounce 1s infinite;">🔎</span></span>
+    <span>Bootstrap <span style="animation: bounce 1s infinite;">📚</span></span>
+    <span>Tkinter <span style="animation: bounce 1s infinite;">🖱️</span></span>
+    <span>TypeScript <span style="animation: bounce 1s infinite;">🔷</span></span>
+    <span>Tailwind CSS <span style="animation: bounce 1s infinite;">🌊</span></span>
+</div>
+
+<style>
+@keyframes bounce {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+</style>
+
+---
+
+# 📊 GitHub Stats:
+![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Amina-Sagheer?cardType=level&theme=highcontrast&preferLogin=false)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Amina-Sagheer&theme=highcontrast)](https://git.io/streak-stats)
 
 
 
