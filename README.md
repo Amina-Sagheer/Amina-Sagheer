@@ -2,9 +2,8 @@
 
 👋 Hi there! I'm Amina, a dedicated software engineering student and technology enthusiast.
 
-<p class="text-white/80 text-center">
-  My passion for coding and technology drives me to continuously explore new areas of development. From building responsive web applications to diving deeper into machine learning, I’m committed to expanding my skills and staying at the forefront of innovation. Beyond technical work, I’ve embraced leadership, entrepreneurship, and tech stewardship—learning to develop technologies that not only solve problems but also serve the greater good. I believe in pushing boundaries and working on projects that make a meaningful impact on both users and communities.
-</p>
+<p class="text-white/80 text-center">I'm a passionate developer exploring web apps, machine learning, and tech for good—committed to innovation, impact, and continuous growth.</p>
+
 
 ---
 
